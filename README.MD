@@ -11,3 +11,8 @@ EDA + converesions are done through:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+Instructions:
+- Install pip
+- Ensure you have python version 3.11
+- run: ```pip install pandas numpy json tensorflow matplotlib seaborn scikit-learn scipy```
